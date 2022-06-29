@@ -44,4 +44,24 @@ body {
   width: 1554px;
   margin: 0 auto;
 }
+@media screen and (max-width: 1534px) {
+  .page-index {
+    display: none;
+  }
+  .com-bottom {
+    display: none;
+  }
+  .mob-index {
+    display: block;
+  }
+  body {
+    display: block;
+    width: 100%;
+  }
+  .default {
+    margin-top: 1em;
+    width: 100%;
+    margin: 0 auto;
+  }
+}
 </style>

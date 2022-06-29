@@ -2,7 +2,7 @@
   <div style="margin-bottom: 44px;margin-top: 44px">
     <nav class="navbar ">
       <div class="navbar-brand">
-        <a class="navbar-item" href="http://bulma.io">
+        <a class="navbar-item">
           <logofull />
         </a>
 
@@ -16,9 +16,10 @@
       <div id="navMenubd-example" class="navbar-menu navbar-end">
         <div class="navbar-item">
           <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link  is-active" href="/documentation/overview/start/"><p>首页</p><span>Home</span></a>
+            <a class="navbar-link  is-active"><p>首页</p><span>Home</span></a>
+            <!--
             <div class="navbar-dropdown ">
-              <a class="navbar-item is-active" href="http://bulma.io/documentation/components/breadcrumb/">Components</a>
+              <a class="navbar-item">Components</a>
               <hr class="navbar-divider">
               <div class="navbar-item">
                 <div>
@@ -31,12 +32,14 @@
                 </div>
               </div>
             </div>
+            -->
           </div>
           <!-- 工程计划 -->
           <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link" href="/documentation/overview/start/"><p>工程计划</p><span>Engineering plan</span></a>
+            <a class="navbar-link" ><p>工程计划</p><span>Engineering plan</span></a>
+            <!--
             <div class="navbar-dropdown ">
-              <a class="navbar-item" href="http://bulma.io/documentation/components/breadcrumb/">Components</a>
+              <a class="navbar-item">Components</a>
               <hr class="navbar-divider">
               <div class="navbar-item">
                 <div>
@@ -49,12 +52,14 @@
                 </div>
               </div>
             </div>
+            -->
           </div>
           <!-- 研究方向 -->
           <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link" href="/documentation/overview/start/"><p>研究方向</p><span>Research direction</span></a>
+            <a class="navbar-link" ><p>研究方向</p><span>Research direction</span></a>
+            <!--
             <div class="navbar-dropdown ">
-              <a class="navbar-item" href="http://bulma.io/documentation/components/breadcrumb/">Components</a>
+              <a class="navbar-item">Components</a>
               <hr class="navbar-divider">
               <div class="navbar-item">
                 <div>
@@ -67,12 +72,14 @@
                 </div>
               </div>
             </div>
+            -->
           </div>
           <!-- 学术论文 -->
           <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link" href="/documentation/overview/start/"><p>学术论文</p><span>Academic paper</span></a>
+            <a class="navbar-link" ><p>学术论文</p><span>Academic paper</span></a>
+            <!--
             <div class="navbar-dropdown ">
-              <a class="navbar-item" href="http://bulma.io/documentation/components/breadcrumb/">Components</a>
+              <a class="navbar-item">Components</a>
               <hr class="navbar-divider">
               <div class="navbar-item">
                 <div>
@@ -85,12 +92,14 @@
                 </div>
               </div>
             </div>
+            -->
           </div>
           <!-- 关于我们 -->
           <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link" href="/documentation/overview/start/"><p>关于我们</p><span>About us</span></a>
+            <a class="navbar-link" ><p>关于我们</p><span>About us</span></a>
+            <!--
             <div class="navbar-dropdown ">
-              <a class="navbar-item" href="http://bulma.io/documentation/components/breadcrumb/">Components</a>
+              <a class="navbar-item">Components</a>
               <hr class="navbar-divider">
               <div class="navbar-item">
                 <div>
@@ -103,6 +112,7 @@
                 </div>
               </div>
             </div>
+            -->
           </div>
         </div>
       </div>

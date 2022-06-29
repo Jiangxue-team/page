@@ -1,10 +1,14 @@
 <template>
-  <div class="title">
-    <h1>应对永无止境的安全威胁</h1>
-    <span>Tackle never-ending security threats</span>
-    <p>江雪（Jiangxue,team）是一支由非盈利组织联合现在所驱动的综合性开放性研究团队，以互联网基础协议的标准制定为驱动，通过计算机科学和应用技术为基础进行创新</p>
-    <logo-ui />
-    <img src="/img/news-background.png">
+  <div>
+    <div>
+      <div class="layout title">
+        <h1>应对永无止境的安全威胁</h1>
+        <span>Tackle never-ending security threats</span>
+        <p>江雪（Jiangxue,team）是一支由非盈利组织联合现在所驱动的综合性开放性研究团队，以互联网基础协议的标准制定为驱动，通过计算机科学和应用技术为基础进行创新</p>
+        <logo-ui />
+        <img src="/img/news-background.png">
+      </div>
+    </div>
   </div>
 </template>
 
@@ -26,7 +30,7 @@ export default {
     margin-top: -4em;
     z-index: -10;
   }
-  div {
+  .title {
     text-align: -webkit-center;
     margin-top: 61px;
     width: 100%;

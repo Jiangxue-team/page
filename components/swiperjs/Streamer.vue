@@ -6,10 +6,10 @@
         <span>2022 OPENNESS COMMUNITY (OCO) 项目启动，助力江雪基础服务落地与研究进程。</span>
       </div>
     </swiper-slide>
-    <swiper-slide style="background: red">Slide 10</swiper-slide>
-    <swiper-slide style="background: red">Slide 10</swiper-slide>
-    <swiper-slide style="background: red">Slide 10</swiper-slide>
-    <swiper-slide style="background: red">Slide 10</swiper-slide>
+    <swiper-slide style="background: #ffffff;text-align: center">unknown</swiper-slide>
+    <swiper-slide style="background: #ffffff;text-align: center">unknown</swiper-slide>
+    <swiper-slide style="background: #ffffff;text-align: center">unknown</swiper-slide>
+    <swiper-slide style="background: #ffffff;text-align: center">unknown</swiper-slide>
     <div class="swiper-pagination" slot="pagination"></div>
     <div class="swiper-button-prev" slot="button-prev"></div>
     <div class="swiper-button-next" slot="button-next"></div>
@@ -68,5 +68,22 @@ export default {
   position: absolute;
   display: inline-block;
   margin-top: 0.7em;
+}
+@media screen and (max-width: 1534px) {
+  >>> .swiper-pagination-bullet-active {
+    width: 9px !important;
+    height: 2px !important;
+  }
+  >>> .swiper-pagination-bullet {
+    width: 9px;
+    height: 2px;
+  }
+  .swiper-layout {
+    margin-top: 130px;
+    height: 74px;
+    margin-left: 34px;
+    width: 303px;
+    color: white;
+  }
 }
 </style>

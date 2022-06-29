@@ -1,7 +1,7 @@
 <template>
   <div class="ov-layout">
     <p class="ov-font-layout">位于繁华都市之中，成员遍布全球，退居山水之间，传千年之经义，燃万古之明灯<br>
-      知一传百，思而故行，学以致用，护之国网<br>
+      <span style="margin-top: 12px">知一传百，思而故行，学以致用，护之国网</span><br>
       “因为热爱，方可无惧”
     </p>
     <swiper class="swiper" :options="swiperOption">
@@ -37,7 +37,7 @@
         <img src="/img/overview/knowledge-base-learner.png" />
         <p><span>10196</span>人</p>
         <span>
-          知识库在学人数（本团队132人，社区9532人，其他532人）
+          知识库在学人数
         </span>
       </swiper-slide>
       <div class="swiper-pagination" slot="pagination"></div>
@@ -76,6 +76,7 @@ swiper-slide {
     background: url(/img/banner-towers.png) 0% 0% / 100%;
     height: 717px;
     margin-top: 60px;
+    background-repeat: no-repeat;
   }
   .ov-font-layout {
     text-align: center;
@@ -123,5 +124,42 @@ swiper-slide {
   .swiper span {
     color: #3E5E7E;
     font-size: 15px;
+  }
+  @media screen and (max-width: 1534px) {
+    >>> .swiper-slide .swiper-slide-active {
+    }
+    >>> .swiper-wrapper {
+      position: relative;
+      width: 100% !important;
+      height: 100% !important;
+      z-index: 1;
+      display: block !important;
+    }
+    .ov-layout {
+      height: auto !important;
+    }
+    .swiper-slide {
+      margin-top: 88px;
+      height: 326.09px;
+      text-align: center;
+      height: auto;
+      width: 50% !important;
+      display: table-footer-group;
+      display: none;
+    }
+    .ov-font-layout {
+      text-align: center;
+      font-family: SourceHanSerifCN-Regular;
+      color: #3E5E7E;
+      font-size: 6px;
+      margin: 22px;
+      padding-top: 0;
+    }
+    img {
+      margin-top: 2em;
+    }
+    >>> .swiper-pagination-bullet {
+      display: none;
+    }
   }
 </style>

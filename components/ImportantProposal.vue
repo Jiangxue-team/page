@@ -174,4 +174,16 @@ div {
 img {
   width: 1553px;
 }
+@media screen and (max-width: 1534px) {
+  .ip-layout {
+    display: flex;
+    margin: 0 auto;
+    padding: 0;
+    overflow: auto;
+    width: 100% !important;
+  }
+  .ep-font {
+    display: none;
+  }
+}
 </style>

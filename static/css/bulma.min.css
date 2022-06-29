@@ -173,11 +173,11 @@ table th {
   .is-size-1-tablet {
     font-size:3rem!important
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .is-size-1-touch {
     font-size:3rem!important
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .is-size-1-desktop {
     font-size:3rem!important
   }
@@ -200,11 +200,11 @@ table th {
   .is-size-2-tablet {
     font-size:2.5rem!important
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .is-size-2-touch {
     font-size:2.5rem!important
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .is-size-2-desktop {
     font-size:2.5rem!important
   }
@@ -227,11 +227,11 @@ table th {
   .is-size-3-tablet {
     font-size:2rem!important
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .is-size-3-touch {
     font-size:2rem!important
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .is-size-3-desktop {
     font-size:2rem!important
   }
@@ -254,11 +254,11 @@ table th {
   .is-size-4-tablet {
     font-size:1.5rem!important
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .is-size-4-touch {
     font-size:1.5rem!important
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .is-size-4-desktop {
     font-size:1.5rem!important
   }
@@ -281,11 +281,11 @@ table th {
   .is-size-5-tablet {
     font-size:1.25rem!important
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .is-size-5-touch {
     font-size:1.25rem!important
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .is-size-5-desktop {
     font-size:1.25rem!important
   }
@@ -308,11 +308,11 @@ table th {
   .is-size-6-tablet {
     font-size:1rem!important
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .is-size-6-touch {
     font-size:1rem!important
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .is-size-6-desktop {
     font-size:1rem!important
   }
@@ -335,11 +335,11 @@ table th {
   .is-size-7-tablet {
     font-size:.75rem!important
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .is-size-7-touch {
     font-size:.75rem!important
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .is-size-7-desktop {
     font-size:.75rem!important
   }
@@ -362,19 +362,19 @@ table th {
   .has-text-centered-tablet {
     text-align:center!important
   }
-}@media screen and (min-width:769px) and (max-width:1007px) {
+}@media screen and (min-width:769px) and (max-width:1534px) {
   .has-text-centered-tablet-only {
     text-align:center!important
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .has-text-centered-touch {
     text-align:center!important
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .has-text-centered-desktop {
     text-align:center!important
   }
-}@media screen and (min-width:1008px) and (max-width:1199px) {
+}@media screen and (min-width:1535px) and (max-width:1199px) {
   .has-text-centered-desktop-only {
     text-align:center!important
   }
@@ -401,19 +401,19 @@ table th {
   .has-text-left-tablet {
     text-align:left!important
   }
-}@media screen and (min-width:769px) and (max-width:1007px) {
+}@media screen and (min-width:769px) and (max-width:1534px) {
   .has-text-left-tablet-only {
     text-align:left!important
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .has-text-left-touch {
     text-align:left!important
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .has-text-left-desktop {
     text-align:left!important
   }
-}@media screen and (min-width:1008px) and (max-width:1199px) {
+}@media screen and (min-width:1535px) and (max-width:1199px) {
   .has-text-left-desktop-only {
     text-align:left!important
   }
@@ -440,19 +440,19 @@ table th {
   .has-text-right-tablet {
     text-align:right!important
   }
-}@media screen and (min-width:769px) and (max-width:1007px) {
+}@media screen and (min-width:769px) and (max-width:1534px) {
   .has-text-right-tablet-only {
     text-align:right!important
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .has-text-right-touch {
     text-align:right!important
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .has-text-right-desktop {
     text-align:right!important
   }
-}@media screen and (min-width:1008px) and (max-width:1199px) {
+}@media screen and (min-width:1535px) and (max-width:1199px) {
   .has-text-right-desktop-only {
     text-align:right!important
   }
@@ -569,19 +569,19 @@ a.has-text-danger:focus,a.has-text-danger:hover {
   .is-block-tablet {
     display:block!important
   }
-}@media screen and (min-width:769px) and (max-width:1007px) {
+}@media screen and (min-width:769px) and (max-width:1534px) {
   .is-block-tablet-only {
     display:block!important
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .is-block-touch {
     display:block!important
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .is-block-desktop {
     display:block!important
   }
-}@media screen and (min-width:1008px) and (max-width:1199px) {
+}@media screen and (min-width:1535px) and (max-width:1199px) {
   .is-block-desktop-only {
     display:block!important
   }
@@ -614,25 +614,25 @@ a.has-text-danger:focus,a.has-text-danger:hover {
     display:-ms-flexbox!important;
     display:flex!important
   }
-}@media screen and (min-width:769px) and (max-width:1007px) {
+}@media screen and (min-width:769px) and (max-width:1534px) {
   .is-flex-tablet-only {
     display:-webkit-box!important;
     display:-ms-flexbox!important;
     display:flex!important
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .is-flex-touch {
     display:-webkit-box!important;
     display:-ms-flexbox!important;
     display:flex!important
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .is-flex-desktop {
     display:-webkit-box!important;
     display:-ms-flexbox!important;
     display:flex!important
   }
-}@media screen and (min-width:1008px) and (max-width:1199px) {
+}@media screen and (min-width:1535px) and (max-width:1199px) {
   .is-flex-desktop-only {
     display:-webkit-box!important;
     display:-ms-flexbox!important;
@@ -667,19 +667,19 @@ a.has-text-danger:focus,a.has-text-danger:hover {
   .is-inline-tablet {
     display:inline!important
   }
-}@media screen and (min-width:769px) and (max-width:1007px) {
+}@media screen and (min-width:769px) and (max-width:1534px) {
   .is-inline-tablet-only {
     display:inline!important
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .is-inline-touch {
     display:inline!important
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .is-inline-desktop {
     display:inline!important
   }
-}@media screen and (min-width:1008px) and (max-width:1199px) {
+}@media screen and (min-width:1535px) and (max-width:1199px) {
   .is-inline-desktop-only {
     display:inline!important
   }
@@ -706,19 +706,19 @@ a.has-text-danger:focus,a.has-text-danger:hover {
   .is-inline-block-tablet {
     display:inline-block!important
   }
-}@media screen and (min-width:769px) and (max-width:1007px) {
+}@media screen and (min-width:769px) and (max-width:1534px) {
   .is-inline-block-tablet-only {
     display:inline-block!important
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .is-inline-block-touch {
     display:inline-block!important
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .is-inline-block-desktop {
     display:inline-block!important
   }
-}@media screen and (min-width:1008px) and (max-width:1199px) {
+}@media screen and (min-width:1535px) and (max-width:1199px) {
   .is-inline-block-desktop-only {
     display:inline-block!important
   }
@@ -751,25 +751,25 @@ a.has-text-danger:focus,a.has-text-danger:hover {
     display:-ms-inline-flexbox!important;
     display:inline-flex!important
   }
-}@media screen and (min-width:769px) and (max-width:1007px) {
+}@media screen and (min-width:769px) and (max-width:1534px) {
   .is-inline-flex-tablet-only {
     display:-webkit-inline-box!important;
     display:-ms-inline-flexbox!important;
     display:inline-flex!important
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .is-inline-flex-touch {
     display:-webkit-inline-box!important;
     display:-ms-inline-flexbox!important;
     display:inline-flex!important
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .is-inline-flex-desktop {
     display:-webkit-inline-box!important;
     display:-ms-inline-flexbox!important;
     display:inline-flex!important
   }
-}@media screen and (min-width:1008px) and (max-width:1199px) {
+}@media screen and (min-width:1535px) and (max-width:1199px) {
   .is-inline-flex-desktop-only {
     display:-webkit-inline-box!important;
     display:-ms-inline-flexbox!important;
@@ -804,19 +804,19 @@ a.has-text-danger:focus,a.has-text-danger:hover {
   .is-hidden-tablet {
     display:none!important
   }
-}@media screen and (min-width:769px) and (max-width:1007px) {
+}@media screen and (min-width:769px) and (max-width:1534px) {
   .is-hidden-tablet-only {
     display:none!important
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .is-hidden-touch {
     display:none!important
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .is-hidden-desktop {
     display:none!important
   }
-}@media screen and (min-width:1008px) and (max-width:1199px) {
+}@media screen and (min-width:1535px) and (max-width:1199px) {
   .is-hidden-desktop-only {
     display:none!important
   }
@@ -3492,7 +3492,8 @@ a.tag:hover {
   color:#363636;
   font-size:2rem;
   font-weight:600;
-  line-height:1.125
+  line-height:1.125;
+  text-align: -moz-center;
 }
 .title strong {
   color:inherit;
@@ -4666,7 +4667,7 @@ a.dropdown-item.is-active {
   color:#00d1b2;
   padding-bottom:calc(.75rem - 3px)
 }
-@media screen and (min-width:1008px) {
+@media screen and (min-width:1535px) {
   .nav-item a:not(.button).is-brand,a.nav-item:not(.button).is-brand {
     padding-left:0
   }
@@ -4943,7 +4944,7 @@ a.navbar-link.is-active p:after{
   height:1px;
   margin:.5rem 0
 }
-@media screen and (max-width:1007px) {
+@media screen and (max-width:1534px) {
   .navbar>.container {
     display:block
   }
@@ -4963,7 +4964,7 @@ a.navbar-link.is-active p:after{
   .navbar-menu.is-active {
     display:block
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .navbar,.navbar-end,.navbar-menu,.navbar-start {
     -webkit-box-align:stretch;
     -ms-flex-align:stretch;
@@ -6096,7 +6097,7 @@ a.panel-block:hover,label.panel-block:hover {
   .column.is-offset-12,.column.is-offset-12-tablet {
     margin-left:100%
   }
-}@media screen and (max-width:1007px) {
+}@media screen and (max-width:1534px) {
   .column.is-narrow-touch {
     -webkit-box-flex:0;
     -ms-flex:none;
@@ -6261,7 +6262,7 @@ a.panel-block:hover,label.panel-block:hover {
   .column.is-offset-12-touch {
     margin-left:100%
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .column.is-narrow-desktop {
     -webkit-box-flex:0;
     -ms-flex:none;
@@ -6820,7 +6821,7 @@ a.panel-block:hover,label.panel-block:hover {
     display:-ms-flexbox;
     display:flex
   }
-}@media screen and (min-width:1008px) {
+}@media screen and (min-width:1535px) {
   .columns.is-desktop {
     display:-webkit-box;
     display:-ms-flexbox;
@@ -7705,7 +7706,7 @@ a.panel-block:hover,label.panel-block:hover {
 .section {
   padding:3rem 1.5rem
 }
-@media screen and (min-width:1008px) {
+@media screen and (min-width:1535px) {
   .section.is-medium {
     padding:9rem 1.5rem
   }

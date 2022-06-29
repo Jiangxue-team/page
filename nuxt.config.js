@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'jiangxue.official-website',
+    title: '江雪 - 民间非盈利性质的多边领域研究团队',
     htmlAttrs: {
       lang: 'en',
     },
@@ -15,9 +15,9 @@ export default {
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/png', href: '/favicon.png' , sizes: '32x32' },
+      { rel: 'apple-touch-icon', href: '/favicon_180.png' , sizes: '180x180' },
       { rel: 'stylesheet', href: '/css/bulma.min.css' },
-      // { rel: 'stylesheet', href: '/css/swiper-bundle.min.css' },
     ],
     // script: [
     //   { src: '/js/swiper-bundle.js', charset: 'utf-8'},

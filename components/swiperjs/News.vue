@@ -5,7 +5,7 @@
         <img src="/img/news/1.png" style="width: 100%">
         <span>2022/01/05</span>
         <a>全球青年的倡导与计划大会</a>
-        <p>为年轻人被赋予权力并鼓励他们充分发挥其作为全球公民的潜力的社会而奋斗。</p>
+        <p>为年轻人被赋予支持并鼓励他们充分发挥其作为全球公民的潜力的社会而奋斗，增加创造力的产生。</p>
       </swiper-slide>
       <swiper-slide>
         <img src="/img/news/2.png" style="width: 100%">
@@ -125,5 +125,37 @@ export default {
     margin-top: 5px;
     font-family: SourceHanSerifCN-Regular;
     font-weight: 100;
+  }
+  @media screen and (max-width: 1534px) {
+    .swiper-slide {
+      display: inline-table;
+      width: 76% !important;
+      height: auto !important;
+      background: #FFFFFF;
+      box-shadow: 0px 4px 16px rgb(0 0 0 / 9%);
+       margin-left: 0 !important;
+       margin-bottom: 0 !important;
+      margin-top: 20px;
+      padding: 1em !important;
+    }
+    .swiper-pagination-fraction, .swiper-pagination-custom, .swiper-container-horizontal > .swiper-pagination-bullets {
+      display: none !important;
+    }
+    .swiper-slide p {
+      padding-left: 1em !important;
+      padding-right: 1em !important;
+      display: block;
+      padding-bottom: 3em !important;
+    }
+    .swiper-slide a {
+      padding-left: 1em !important;
+      padding-right: 1em !important;
+      display: block;
+    }
+    .swiper-slide span {
+      padding-left: 1em !important;
+      padding-right: 1em !important;
+      padding-top: 1em !important;
+    }
   }
 </style>
