@@ -91,7 +91,7 @@ export default {
       font-family: SourceHanSerifCN-Bold;
     }
     .mob-title span {
-      font-size: 0.1em;
+      font-size: 14px;
     }
     .mob-layout_news div {
       width: 100% !important;
